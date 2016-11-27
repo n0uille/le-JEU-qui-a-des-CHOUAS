@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1463176481 source:c:\users\gab\documents\codeblocks\g a m e\game prototype 1\main.cpp
+	<iostream>
+	<windows.h>
+	"intelligent.h"
+	"cv.h"
+	"concombre.h"
+
+1463176537 c:\users\gab\documents\codeblocks\g a m e\game prototype 1\include\intelligent.h
+
+1463175131 c:\users\gab\documents\codeblocks\g a m e\game prototype 1\include\cv.h
+
+1463175666 source:c:\users\gab\documents\codeblocks\g a m e\game prototype 1\src\cv.cpp
+	<iostream>
+	"cv.h"
+
+1463176537 source:c:\users\gab\documents\codeblocks\g a m e\game prototype 1\src\intelligent.cpp
+	"intelligent.h"
+	"cv.h"
+	<iostream>
+
+1463176365 c:\users\gab\documents\codeblocks\g a m e\game prototype 1\include\concombre.h
+
+1463176560 source:c:\users\gab\documents\codeblocks\g a m e\game prototype 1\src\concombre.cpp
+	"concombre.h"
+	"cv.h"
+	<iostream>
+
+1463286294 source:c:\users\gabriel\documents\c++\g a m e\game prototype 1\src\concombre.cpp
+	"concombre.h"
+	"cv.h"
+	<iostream>
+
+1463176365 c:\users\gabriel\documents\c++\g a m e\game prototype 1\include\concombre.h
+
+1463201753 c:\users\gabriel\documents\c++\g a m e\game prototype 1\include\cv.h
+
+1463175666 source:c:\users\gabriel\documents\c++\g a m e\game prototype 1\src\cv.cpp
+	<iostream>
+	"cv.h"
+
+1463201792 source:c:\users\gabriel\documents\c++\g a m e\game prototype 1\src\intelligent.cpp
+	"intelligent.h"
+	"cv.h"
+	<iostream>
+
+1463201753 c:\users\gabriel\documents\c++\g a m e\game prototype 1\include\intelligent.h
+
+1463200658 source:c:\users\gabriel\documents\c++\g a m e\game prototype 1\main.cpp
+	<iostream>
+	<windows.h>
+	"intelligent.h"
+	"cv.h"
+	"concombre.h"
+
+1478050922 source:c:\users\gab\google drive\c++\le jeu qui a des choua\main.cpp
+	<iostream>
+	<algorithm>
+	<windows.h>
+	<iso646.h>
+	"intelligent.h"
+	"cv.h"
+	"concombre.h"
+
+1463201753 c:\users\gab\google drive\c++\le jeu qui a des choua\include\intelligent.h
+
+1468985185 c:\users\gab\google drive\c++\le jeu qui a des choua\include\cv.h
+
+1463176365 c:\users\gab\google drive\c++\le jeu qui a des choua\include\concombre.h
+
+1463175666 source:c:\users\gab\google drive\c++\le jeu qui a des choua\src\cv.cpp
+	<iostream>
+	"cv.h"
+
+1478049716 source:c:\users\gab\google drive\c++\le jeu qui a des choua\src\intelligent.cpp
+	"intelligent.h"
+	"cv.h"
+	<iostream>
+
+1464046968 source:c:\users\gab\google drive\c++\le jeu qui a des choua\src\concombre.cpp
+	"concombre.h"
+	"cv.h"
+	<iostream>
+
+1478051213 source:c:\users\gab\documents\le jeu qui a des choua\le jeu qui a des choua\main.cpp
+	<iostream>
+	<algorithm>
+	<windows.h>
+	<iso646.h>
+	"intelligent.h"
+	"cv.h"
+	"concombre.h"
+
+1463201753 c:\users\gab\documents\le jeu qui a des choua\le jeu qui a des choua\include\intelligent.h
+
+1468985185 c:\users\gab\documents\le jeu qui a des choua\le jeu qui a des choua\include\cv.h
+
+1463176365 c:\users\gab\documents\le jeu qui a des choua\le jeu qui a des choua\include\concombre.h
+
+1464046968 source:c:\users\gab\documents\le jeu qui a des choua\le jeu qui a des choua\src\concombre.cpp
+	"concombre.h"
+	"cv.h"
+	<iostream>
+
+1463175666 source:c:\users\gab\documents\le jeu qui a des choua\le jeu qui a des choua\src\cv.cpp
+	<iostream>
+	"cv.h"
+
+1478049716 source:c:\users\gab\documents\le jeu qui a des choua\le jeu qui a des choua\src\intelligent.cpp
+	"intelligent.h"
+	"cv.h"
+	<iostream>
+
